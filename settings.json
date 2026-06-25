@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AndaParathaBot",
-    "password": "Shaikh",
+    "username": "SARAPRO_12439",
+    "password": "Saralord",
     "type": "offline"
   },
   "server": {
-    "ip": "TOKEN_SMP_S1_MC.aternos.me",
-    "port": 38952,
+    "ip": "play.light.qzz.io",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
