@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "SaraProBoz",
+    "password": "ProBotSara",
     "type": "offline"
   },
   "server": {
-    "ip": "Mnenie-Maksima.aternos.me",
+    "ip": "play.light.qzz.io",
     "port": 18584,
-    "version": "26.2",
+    "version": "1.21.11,
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ""
       ]
     },
     "chat-log": true,
